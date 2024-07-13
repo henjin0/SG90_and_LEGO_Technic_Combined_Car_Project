@@ -1,0 +1,2 @@
+# SG90_and_LEGO_Technic_Combined_Car_Project
+サーボモーターのSG-90とLEGOテクニックをくっつけてラジコンカー的な何かを作れるようにしたパーツ群です。
